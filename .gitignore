@@ -1,0 +1,7 @@
+node_modules/
+dist/
+Backup/
+.temp/
+.env
+*.log
+.DS_Store
